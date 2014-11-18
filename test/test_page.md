@@ -23,9 +23,10 @@ it was header1 above
 ### And this is the header3
 
 Simple Ha-ha-ha
-1. item
-2. item
-3. item
-
+<ol>
+<li>item</li>
+<li>item</li>
+<li>item</li>
+</ol>
 
 And this is the text started after booleted text
