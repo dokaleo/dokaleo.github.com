@@ -1,6 +1,5 @@
 ---
-layout: null
-title : robots.txt
+
 ---
 User-agent: *
 Disallow: /
